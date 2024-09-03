@@ -1,5 +1,5 @@
 Jetpack compose template.
 
-・Room（Local db）
+・SQLite（Local db）
 
 ・kotest（Unit test / Automated）
